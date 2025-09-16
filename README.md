@@ -6,6 +6,11 @@ __This Power BI dashboard offers a comprehensive analysis of hospital appointmen
 
 ---
 
+## 📎 Dashboard Overview:
+<img width="985" height="542" alt="image" src="https://github.com/user-attachments/assets/d31a498e-b16d-4956-9db6-d695c30912f2" />
+
+
+---
 ## 🧰 Tools & Technologies Used
 
 - **Excel**: Data cleaning & preprocessing  
@@ -56,12 +61,4 @@ __This Power BI dashboard offers a comprehensive analysis of hospital appointmen
 
 ---
 
-## 📎 Files Included
-
-- `dashboard.pbix` → Power BI file  
-- `cleaned_data.xlsx` → Cleaned/prepped data  
-- `SQL_queries.sql` → Sample SQL queries used for exploration  
-- `README.md` → Project overview and documentation
-
----
 
