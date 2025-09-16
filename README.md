@@ -10,6 +10,10 @@ __This Power BI dashboard offers a comprehensive analysis of hospital appointmen
 <img width="985" height="542" alt="image" src="https://github.com/user-attachments/assets/d31a498e-b16d-4956-9db6-d695c30912f2" />
 
 
+-- 
+### Data Modelling:
+<img width="807" height="459" alt="image" src="https://github.com/user-attachments/assets/7692dbe7-6514-4f41-84e7-3e178d006d9b" />
+
 ---
 ## 🧰 Tools & Technologies Used
 
